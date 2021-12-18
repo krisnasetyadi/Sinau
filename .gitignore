@@ -1,13 +1,13 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
-pdftron lib
-/public/webviewer
+# pdftron lib
+# /public/webviewer
 
-misc
-/public/assets/webviewer/core
-/public/assets/webviewer/ui
-/public/lib/core
-/public/lib/ui
+# misc
+# /public/assets/webviewer/core
+# /public/assets/webviewer/ui
+# /public/lib/core
+# /public/lib/ui
 
 # dependencies
 /node_modules
