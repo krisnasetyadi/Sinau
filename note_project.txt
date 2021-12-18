@@ -1,0 +1,33 @@
+gua mikir nya gini sih buat pembagiannya,
+
+SPRINT PLANNING
+
+
+LMS // Learning Management System
+-Setup server  /devops
+-Setup DB  /devops
+
+-- 
+A. Landing / Home page
+A. Registration page 
+A. Login page
+B. Profile page
+B. Edit Profile page
+B. Courses page
+C. Student dashboard page
+C. Instructor dashboard page
+--
+
+
+--
+A. Login with instructor access or student access
+D. Create/update/delete courses as instructor
+D. Upload/update/delete video or pdf and lessons to courses as instructor
+D. Open video or pdf and lessons in courses as student
+E. List of courses on student dashboard
+E. List of progress finish/unfinished lesson on student dashboard
+E. List of student on instructor dashboard
+E. List of courses on instructor dashboard
+--
+
+-Deployment

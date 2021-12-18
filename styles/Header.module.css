@@ -1,0 +1,13 @@
+.container {
+    padding: 2rem;
+    box-shadow: 3px 3px 11px 3px rgb(0 0 0 / 32%);
+    max-width: 800px;
+}
+.list {
+    list-style: none;
+    display: flex;  
+    justify-content: flex-end;
+}
+.item {
+    margin: 0px 16px;
+}

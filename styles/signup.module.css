@@ -1,0 +1,14 @@
+.container {
+    max-width: 1000px;
+    text-align: center; 
+    margin-top: 70px;
+    margin-left: 100px;
+    border-radius: 10px;
+}
+.textSignUp{
+    padding-bottom: 15px;
+    padding-top: 10px;
+}
+.inputt{
+    height: 100px;
+}

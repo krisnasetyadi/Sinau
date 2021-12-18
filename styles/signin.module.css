@@ -1,0 +1,14 @@
+.container {
+    max-width: 1000px;
+    text-align: center;
+    margin-top: 70px;
+    margin-left: 120px;
+    border-radius: 10px;
+    padding-top: 20px;
+}
+.content{
+    padding-top: 30px;
+}
+.btn{
+    margin-top: 50px;   
+}
